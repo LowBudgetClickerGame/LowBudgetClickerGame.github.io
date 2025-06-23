@@ -1,0 +1,20 @@
+body {
+  background-color: #4169D3;
+  text-align: center;
+}
+
+/* main.css */
+#namak {
+  background-color: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 350px;
+}
+#burhan {
+  background-color: brown;
+  border: none;
+  cursor: pointer;
+  border-radius: 200px;
+  padding: 100px;
+  font-size: 24px;
+}
